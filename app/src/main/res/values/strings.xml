@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">MyAddress Jay Pandya</string>
+    <string name="action_settings">About</string>
+    <string name="clear">Clear</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="address">Address:</string>
+    <string name="province">Province:</string>
+    <string name="country">Country:</string>
+    <string name="postal_code">Postal Code:</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="designations">
+        <item>Mr</item>
+        <item>Ms</item>
+        <item>Mrs</item>
+        <item>Dr</item>
+    </string-array>
+
+    <string-array name="provinces">
+        <item>Ontario</item>
+        <item>Quebec</item>
+        <item>British Columbia</item>
+        <item>Alberta</item>
+        <item>Manitoba</item>
+        <item>Saskatchewan</item>
+        <item>Nova Scotia</item>
+        <item>New Brunswick</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Prince Edward Island</item>
+        <item>Northwest Territories</item>
+        <item>Yukon</item>
+        <item>Nunavut</item>
+    </string-array>
+    <string name="title_activity_people_list">PeopleList</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Hello Database Credentials...</string>
+    <string name="no_todos">Currently there are no Todo items maintained</string>
+    <string name="menu_insert">Add Item</string>
+    <string name="menu_delete">Delete</string>
+    <string name="todo_summary">Summary</string>
+    <string name="todo_description">Delete Todo</string>
+    <string name="todo_edit_summary">Summary</string>
+    <string name="todo_edit_description">Description</string>
+    <string name="todo_edit_confirm">Confirm</string>
+
+</resources>
